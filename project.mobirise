@@ -33,13 +33,15 @@
       "additionalSetColors": [
         "#000000"
       ]
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/nueva-imagen.svg",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Bienvenidos",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
